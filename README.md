@@ -1,4 +1,4 @@
-Repositorio: Clase_de_github / en la rama mejorandolaaa
+Repositorio: Clase_de_github / en la rama mejorandola
 ===============
 
 Esta es mi primera prueba con github ;) Hack the Planet !
