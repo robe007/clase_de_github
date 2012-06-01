@@ -1,4 +1,4 @@
-clase_de_github
+Repositorio: Clase_de_github
 ===============
 
-Esta es mi primera prueba con github
+Esta es mi primera prueba con github ;) Hack the Planet !
